@@ -1,0 +1,17 @@
+.topText {
+    height: 240px;
+    /*width: 200px;*/
+    /*background-color: red;*/
+    padding: 30px;
+    border: solid black 2px;
+    border-radius: 10px;
+    Overflow-y: scroll;
+    white-space:pre-wrap;
+}
+.botText {
+    height: 100px;
+    padding: 10px;
+    border: solid black 2px;
+    border-radius: 10px;
+    Overflow-y: auto;
+}
